@@ -1,5 +1,5 @@
 # variável tempoExperiencia 
-tempoExperiencia = 5
+tempoExperiencia = 1
 
 # Verifique se o valor da variável tempoExperiencia é menor que 2
 if tempoExperiencia < 2:
